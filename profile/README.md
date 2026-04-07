@@ -1,12 +1,16 @@
-## Hi there 👋
+🧬 Bio-Research
 
-<!--
+Advancing biological research through technology — one commit at a time.
 
-**Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+👋 Who We Are
+We are a research-driven organization focused on building tools, systems, and platforms that support biological data collection, analysis, and reporting. Our work sits at the intersection of life sciences and software engineering.
+We're currently in active development — some projects are public, some are not, and a lot is happening behind the scenes.
+
+🔬 What We're Working On
+We build and maintain internal and external tools across a range of focus areas:
+
+📊 Data & Analytics — processing and visualizing biological datasets
+🌐 Web Platforms — research portals and reporting interfaces
+🔗 Integrations — connecting research tools and cloud infrastructure
+🗃️ Data Management — organizing and archiving research outputs
